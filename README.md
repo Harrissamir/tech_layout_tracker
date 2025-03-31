@@ -14,7 +14,7 @@ Layoff trends by industry
 
 Filtering layoffs by date
 
-Using Pandas, Matplotlib, and Seaborn, the tool presents clear data visualizations to help users understand workforce reductions across the tech industry.
+Using Pandas, Matplotlib, and Seaborn, the tool presents clear data visualizations to help users understand workforce reductions across the tech industry. This helps the HR as to how to track the database of MANG like companies for giving them new oppertunities in their organisation.
 
 Features-
 
